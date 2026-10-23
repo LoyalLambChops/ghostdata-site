@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://loyallambchops.github.io/ghostdata-site/sitemap.xml
